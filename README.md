@@ -26,7 +26,7 @@ The pipeline achieves a **95.45%** verification accuracy using NLP-style tokeniz
 ## 🛠️ Installation & Reproduction
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com/zoechow24/dna-sequence-classifier.git
 cd dna-classifier
 
 # Initialize and activate the isolated virtual environment
